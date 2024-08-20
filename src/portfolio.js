@@ -26,7 +26,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Web Developer 🚀 having an experience of building Web Applications with Reactjs/ Next.js and with some other cool libraries and frameworks."
   ),
-  resumeLink:"https://drive.google.com/file/d/1lLxRGDLHLfftXUAeMac8H8qN32jpqqAk/view?usp=sharing",
+  resumeLink:"https://drive.google.com/file/d/1mNTQ9LZXydhDurDo0O3mQVtxSEbhDXuE/view?usp=drive_link",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
